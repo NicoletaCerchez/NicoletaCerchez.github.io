@@ -448,7 +448,7 @@ header .icon-cart span {
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); 
   gap: 20px;
   padding: 4px;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   margin-bottom: 30px;
 }
 
@@ -456,7 +456,7 @@ header .icon-cart span {
 
 .list-product .item {
   margin-top: 40px;
-  margin-left: 2px;
+  margin-left: 70px;
   position: relative;
   overflow: hidden;
   background-color: #fff;
@@ -465,7 +465,7 @@ header .icon-cart span {
   text-align: center;
   padding: 30px;
   transition: transform 0.3s ease; 
-  width: 130px; 
+  width: 210px; 
 
 }
 
