@@ -152,10 +152,6 @@ header .icon-cart span {
 }
 
 
-
-
-
-
 @property --border-angle {
   syntax: "<angle>";
   inherits: true;
