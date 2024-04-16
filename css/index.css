@@ -57,7 +57,7 @@ body {
     font-size: 15px;
     font-weight: bolder;
     margin-top: 20px;
-    margin-right: 60px;
+   margin-right: 500px;
   
 }
 
@@ -284,7 +284,8 @@ header .icon-cart span {
 .cartTab {
   z-index: 2000;
   width: 400px;
-  background-color: #5d1521;
+  background: rgb(225,166,166);
+  background: linear-gradient(0deg, rgba(225,166,166,1) 0%, rgba(93,21,33,1) 100%);
   color: #ffffff;
   position: fixed;
   display: grid;
